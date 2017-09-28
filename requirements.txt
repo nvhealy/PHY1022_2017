@@ -1,5 +1,5 @@
 IPython
 ipywidgets
 holoviews
-
+bokeh
 
