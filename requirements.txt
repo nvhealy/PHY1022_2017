@@ -2,4 +2,5 @@ IPython
 ipywidgets
 holoviews
 bokeh
+matplotlib
 pyparsing
